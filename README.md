@@ -23,6 +23,7 @@ Earlier work as a sports blogger taught me to research carefully and explain thi
 
 | Project | What I built | Explore |
 | --- | --- | --- |
+| **Autonomous Regulatory Compliance Engine** | Multi-agent statutory audit system with 10-signal hybrid scoring (BM25 + embeddings), multi-regulator web scraping, and zero-hallucination verification. | [Code](https://github.com/kushagragupta-23/autonomous-regulatory-compliance-engine) · [Live Demo](https://huggingface.co/spaces/kushagragupta1998/regulatory-compliance-agent) |
 | **HydraFusion-Net** | Co-built a PyTorch image detector combining entropy and bit-plane features. Reported **95.2% test accuracy** on the project's 2,000-image test split. | [Code](https://github.com/kushagragupta-23/Dual-Cue-AI-Generated-Image-Detection-via-Entropy-and-Bit-Plane-Feature-Fusion) |
 | **OpenVid AI** | Prompt- and document-to-video creation with narration, visuals and captions, built from scratch for IntellAxis AI. | [Project notes](https://kushagragupta-23.github.io/#project/openvid) |
 | **RepoSage** | Local codebase search using AST metadata, BM25 and semantic retrieval, with answers linked to files, functions and lines. | [Code](https://github.com/kushagragupta-23/RepoSage) |
